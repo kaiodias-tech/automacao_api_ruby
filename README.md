@@ -1,5 +1,5 @@
 <h1 align="center">
-    Desafio VR - Consulta Estabelecimento
+    Desafio VR - Consulta de Estabelecimento
 </h1>
 
 
@@ -18,7 +18,7 @@
 ### Configurando o projeto na sua máquina 
 Para rodar o projeto na sua máquina basta seguir os passos:
 
-- Ter uma IDE de sua preferência 
+- Ter uma IDE de sua preferência  - Recomendo o Visual Studio Code
 - Instalar o Ruby: [Site de instalação do ruby](https://www.ruby-lang.org/pt/downloads/)
 
 > Instalar o Bundle
@@ -34,7 +34,7 @@ bundle install
 
 > Copiar o Projeto
 ```
-git clone <passar o clone do projeto>
+git clone - <passar o link do projeto>
 ```
 
 
